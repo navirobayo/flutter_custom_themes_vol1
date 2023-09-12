@@ -68,4 +68,4 @@ class FlutterMonokaiTheme {
 
 // Based on the Monokai theme by Wimer Hazenberg.
 // https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode 
-// Replicated to Flutter by @navirobayo - Leave a star in the repo if you like it!
+// Replicated to Flutter by @navirobayo | Check out FlutterCustomThemesVol1 for more. 
