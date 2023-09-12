@@ -7,9 +7,9 @@ class FlutterMonokaiTheme {
 
   static const Color _primaryColor = Color(0xFFEACB64);
   static const Color _primaryInverseColor = Color(0xFF4E432F);
-  static const Color _onSurfaceColor = Color(0xFFA5E179);
+  static const Color _onSurfaceColor = Color(0xFF72CCE8);
   static const Color _onSurfaceVariant = Color(0xFFFF6578);
-  static const Color _onPrimaryColor = Color(0xFF72CCE8);
+  static const Color _onPrimaryColor = Color(0xFFA5E179);
   static const Color _surfaceColor = Color(0xFF4E432F);
   static const Color _backgroundColor = Color(0xFF373C4B);
   static const Color _onSecondaryColor = Color(0xFFE1E3E4);
