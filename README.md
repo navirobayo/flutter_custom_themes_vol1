@@ -1,18 +1,16 @@
 # Flutter Custom Themes Vol. 1
 
-Welcome to the first volume of custom themes for Flutter. 
+Welcome to this first volume of custom Flutter themes. 
 
-There is one file per theme, feel free to download the files or fork the complete repo if you want to try them all. 
-
-Leave a star, don't be shy! 
+There is one file per theme, you can download the theme of your choice or even fork the complete repository if you want to try them all. 
 
 <p align="center">
   <img src="https://github.com/navirobayo/FlutterCustomThemesVol1/blob/main/assets/Vol1.png" width="350" title="hover text">
 </p>
 
-## How to use the themes?
+# How to use
 
-> Need more customization? Skip to [#mods](#mods).
+> Need more customization? Skip to [mods](mods).
 
 Each theme is created to be used automatically in any Flutter app and it has been tested with the default widgets for regular aplication. 
 
