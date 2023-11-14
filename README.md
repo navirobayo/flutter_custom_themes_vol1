@@ -76,7 +76,7 @@ class MyApp extends StatelessWidget {
 
 It is possible that you need to pass an specific color to a widget that you want to customize.
 
-Here is an example of coloring the AppBar with an specific color of the theme that you are using. 
+Here is an example of coloring the AppBar with an specific color from the theme that you are using. 
 
   ```dart
 
