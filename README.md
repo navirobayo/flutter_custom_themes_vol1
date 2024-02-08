@@ -20,7 +20,7 @@ Here are some instructions on how to install each of the files in the repo:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:YOUR_APP/YOUR_ROUTE/flutter_monokai_theme.dart'; // This is an exaple using the Monokai theme.
+import 'package:YOUR_APP/YOUR_ROUTE/flutter_monokai_theme.dart'; // This is an example using the Monokai theme.
 import 'package:YOUR_APP/YOUR_ROUTE/welcome_screen.dart';
 
 void main() {
