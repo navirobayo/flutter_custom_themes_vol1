@@ -54,6 +54,14 @@ class MyApp extends StatelessWidget {
 
 *****
 
+- Midnight Neon [[+]](https://github.com/navirobayo/flutter_custom_themes_vol1/blob/main/flutter_midnight_neon_theme.dart) 
+
+<p align="center">
+  <img src="https://github.com/navirobayo/flutter_custom_themes_vol1/blob/main/assets/MIDNIGHT%20NEON.png" width="350" title="monokai">
+</p>
+
+*****
+
 - Ice Cream Sunset [in progress]
 
 <p align="center">
